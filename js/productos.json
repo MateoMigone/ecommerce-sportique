@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "img": "img/pelota-mundial-2022.jpg",
+    "titulo": "Pelota Mundial Qatar 2022",
+    "precio": 17900
+  },
+  {
+    "id": 2,
+    "img": "img/camiseta-argentina-2022.webp",
+    "titulo": "Camiseta Selección Argentina 2022",
+    "precio": 15400
+  },
+  {
+    "id": 3,
+    "img": "img/botines-ultra.png",
+    "titulo": "Botines Ultra 3.3",
+    "precio": 14700
+  },
+  {
+    "id": 4,
+    "img": "img/camiseta-river-2023.png",
+    "titulo": "Camiseta River 2023",
+    "precio": 17900
+  },
+  {
+    "id": 5,
+    "img": "img/paleta-de-paddle-graphene-360.jpg",
+    "titulo": "Paleta de Paddle Graphene 360",
+    "precio": 36000
+  },
+  {
+    "id": 6,
+    "img": "img/short-seleccion-argentina.jpg",
+    "titulo": "Short Selección Argentina",
+    "precio": 11200
+  },
+  {
+    "id": 7,
+    "img": "img/campera-seleccion-argentina.webp",
+    "titulo": "Campera Selección Argentina",
+    "precio": 24000
+  }
+]
